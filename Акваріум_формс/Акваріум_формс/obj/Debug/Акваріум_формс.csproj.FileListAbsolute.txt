@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Акваріум_формс\Акваріум_формс\bin\Debug\Акваріум_формс.exe.config
+C:\Users\ASUS\source\repos\Акваріум_формс\Акваріум_формс\bin\Debug\Акваріум_формс.exe
+C:\Users\ASUS\source\repos\Акваріум_формс\Акваріум_формс\bin\Debug\Акваріум_формс.pdb
+C:\Users\ASUS\source\repos\Акваріум_формс\Акваріум_формс\obj\Debug\Акваріум_формс.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Акваріум_формс\Акваріум_формс\obj\Debug\lab_3.Form2.resources
+C:\Users\ASUS\source\repos\Акваріум_формс\Акваріум_формс\obj\Debug\Акваріум_формс.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Акваріум_формс\Акваріум_формс\obj\Debug\Акваріум_формс.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Акваріум_формс\Акваріум_формс\obj\Debug\Акваріум_формс.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Акваріум_формс\Акваріум_формс\obj\Debug\Акваріум_формс.exe
+C:\Users\ASUS\source\repos\Акваріум_формс\Акваріум_формс\obj\Debug\Акваріум_формс.pdb
+C:\Users\ASUS\source\repos\Акваріум_формс\Акваріум_формс\obj\Debug\lab_3.Fishes.resources
+C:\Users\ASUS\source\repos\Акваріум_формс\Акваріум_формс\obj\Debug\Акваріум_формс.Fishes.resources
+C:\Users\ASUS\source\repos\Акваріум_формс\Акваріум_формс\obj\Debug\Акваріум_формс.Form2.resources
